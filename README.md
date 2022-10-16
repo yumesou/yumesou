@@ -28,4 +28,4 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yumesou&show_icons=true&theme=jolly&line_height=27" alt="**Yume Sou** github stats"/>
 </a>
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/yumesou/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
