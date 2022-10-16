@@ -2,7 +2,7 @@
 
 > Lua medium developer
 
-🔭 @Canary's Main Developer
+🔭 @Canary's Main Developer and CEO
 
 💬 <strong>she~her </strong><code><img height="32" src="https://i.ibb.co/GHw97kZ/622062544810672158.png" alt="nb"></code>
 
