@@ -21,10 +21,10 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 <a href="https://github.com/yumesou">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumesou&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumesou&theme=jolly&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/yumesou">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=yumesou&show_icons=true&theme=dracula&line_height=27" alt="**Yume Sou** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=yumesou&show_icons=true&theme=jolly&line_height=27" alt="**Yume Sou** github stats"/>
 </a>
 
